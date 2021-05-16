@@ -1,0 +1,33 @@
+.menu {
+    font-family: fantasy;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+    cursor: pointer;
+    background: White;
+    margin-top: 0%
+}
+
+.links {
+    display: inline;
+    color: aquamarine;
+    padding-left: 33px;
+    padding-right: 33px;
+    font-family: inherit;
+    font-size: 20px;
+}
+
+#image1 {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+img {
+    height: 175px;
+    width: 175px;
+}
+
+body {
+    text-align: center;
+}
